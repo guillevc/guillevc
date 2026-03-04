@@ -8,8 +8,8 @@ Into self-hosting, media automation, and tinkering with whatever catches my atte
 
 | Project | Description | Stars |
 |---|---|---|
-| [**yubal**](https://github.com/guillevc/yubal) | Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync. | ![](https://img.shields.io/github/stars/guillevc/yubal?style=flat&labelColor=343b41) |
-| [**listseerr**](https://github.com/guillevc/listseerr) | Automated media request lists for Jellyseerr/Overseerr | ![](https://img.shields.io/github/stars/guillevc/listseerr?style=flat&labelColor=343b41) |
+| <img src="https://raw.githubusercontent.com/guillevc/yubal/refs/heads/master/web/public/favicon.svg" width="18"> [**yubal**](https://github.com/guillevc/yubal) | Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync. | ![](https://img.shields.io/github/stars/guillevc/yubal?style=flat&labelColor=343b41) |
+| <img src="https://github.com/guillevc/listseerr/raw/master/docs/icons/listseerr-dark.png" width="18"> [**listseerr**](https://github.com/guillevc/listseerr) | Automated media request lists for Jellyseerr/Overseerr | ![](https://img.shields.io/github/stars/guillevc/listseerr?style=flat&labelColor=343b41) |
 
 #### Stack
 
