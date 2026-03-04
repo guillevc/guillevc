@@ -1,67 +1,24 @@
-<div align="center">
+### Hey, I'm Guille 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Self-hosting+enthusiast;Python+%26+TypeScript+developer;Open+Source+contributor)](https://git.io/typing-svg)
+Software developer from Spain. Most of my projects start as scratching my own itch.
 
-[![GitHub](https://img.shields.io/badge/GitHub-guillevc-181717?style=for-the-badge&logo=github)](https://github.com/guillevc)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/guillevc)
+Into self-hosting, media automation, and tinkering with whatever catches my attention — currently learning Rust and Go.
 
-</div>
+#### Projects
 
----
+| Project | Description | Stars |
+|---|---|---|
+| [**yubal**](https://github.com/guillevc/yubal) | Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync. | ![](https://img.shields.io/github/stars/guillevc/yubal?style=flat&labelColor=343b41) |
+| [**listseerr**](https://github.com/guillevc/listseerr) | Automated media request lists for Jellyseerr/Overseerr | ![](https://img.shields.io/github/stars/guillevc/listseerr?style=flat&labelColor=343b41) |
 
-### 🛠 Tech Stack
+#### Stack
 
-<div align="center">
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,swift,vue,html,css,docker,fastapi,firebase,mongodb,nodejs,linux,git&perline=7&theme=dark" alt="Tech Stack" />
+#### Links
 
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/guillevc/yubal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guillevc&repo=yubal&theme=tokyonight&hide_border=true" alt="yubal" />
-</a>
-
-<a href="https://github.com/guillevc/listseerr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guillevc&repo=listseerr&theme=tokyonight&hide_border=true" alt="listseerr" />
-</a>
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guillevc&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Trophies" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=guillevc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillevc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guillevc&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/guillevc)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=guillevc&color=70A5FD&style=flat-square)
-
-</div>
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/guillevc)
